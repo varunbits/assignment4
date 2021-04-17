@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Assignment4
 
-You can use the [editor on GitHub](https://github.com/varunbits/assignment4/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. **Objective**:
+* Contributing to Open Source Software
+* Technologies used: Git, GitHub, GitHub Desktop, Eclipse IDE / Visual Studio Code / Atom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. **Assignment Task:**
+* One of the collaborator is required to create a new software project repository on GitHub and others need to fork the same in order to contribute to it.
+* All collaborators should create different topic branches in order to make their changes.
+* Collaborate and contribute to the development of ReadMe.md file. You must make use of Markdown language to write the same.
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
+* Collaborate and contribute towards the development of GitHub page for your project.
+{You may choose an appropriate IDE (Atom/ Visual Studio Code) to work on the same}
+* Collaborate and contribute to the development of the software code. You may choose to work on a dummy project (with atleast 5 files) or assignment project of any other course in which you may be currently enrolled.
+  - In case of Java project, you may choose to work using Eclipse IDE.
+  - In case of Python project, you may choose Visual Studio Code.
+  - Alternatively, you may also use GitHub Desktop App or Git for the same.
+* Enable an issue tracker for your project and ensure usage of the same by all collaborators.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/varunbits/assignment4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. **Expected Deliverables:**
+* Each group needs to submit the link to the owner repo and all the forked repos.
+* Submit snapshot of all the contributors and contributions made by them during the entire duration of the assignment.
+* Give snapshots of atleast 4 pull requests by each contributor and identify the topmost contributor.
+* Analyze the files that have been proposed with changes by each pull request and take a snapshot of the proposed changes.
+* Give snapshots of atleast 2 issues reported by each contributor.
