@@ -1,0 +1,2 @@
+google-auth==1.11.2
+google-auth-oauthlib==0.4.1

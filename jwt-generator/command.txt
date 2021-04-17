@@ -1,0 +1,1 @@
+docker run -e GOOGLE_APPLICATION_CREDENTIALS=service_account.json -v /Users/varunvk/Documents/assignment4/jwt-generator/service_account.json:/service_account.json --rm jwt-generator --audience=application-api.wilp.bits-pilani.ac.in --sa_email=2020mt93070@wilp.bits-pilani.ac.in
