@@ -1,6 +1,6 @@
 # Assignment4
 
-**Project URL**: https://varunbits.github.io/assignment4/jwt-generator
+**Project URL**: [https://varunbits.github.io/assignment4/jwt-generator](https://varunbits.github.io/assignment4/jwt-generator)
 
 1. **Objective**:
 * Contributing to Open Source Software
